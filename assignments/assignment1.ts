@@ -26,7 +26,7 @@ console.log("Person's email address:",emailAddress)
 
 //6. Coordinates of a location (latitude, longitude): 37.7749, -122.4194
 let coordinates: number[]=[37.7749, -122.4194]
-console.log("Coordinates of a location (latitude, longitude):","+ coordinates[0] +","+ coordinates[1] +")
+console.log("Coordinates of a location (latitude, longitude):" + coordinates[0] +","+ coordinates[1] )
 
 //7. Person's marital status: true or false
 let status: boolean= false
